@@ -1,4 +1,5 @@
 [core]
+    no_scm = True
     remote = g_drive_test
 ['remote "g_drive_test"']
-    url = gdrive://root/dvc_test
+    url = gdrive://1YedI9PVKftKemESNscvCWpQPJ3_CFeoh/
