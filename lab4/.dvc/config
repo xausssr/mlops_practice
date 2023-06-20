@@ -1,0 +1,4 @@
+[core]
+    remote = g_drive_test
+['remote "g_drive_test"']
+    url = gdrive://root/dvc_test
